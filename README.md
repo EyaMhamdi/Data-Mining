@@ -2,8 +2,7 @@
 Comptes-rendus des TPs Data Mining
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EyaMhamdi/NUM_ANALYSIS/main)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EyaMhamdi/Data-Mining/main)
 
 
 
